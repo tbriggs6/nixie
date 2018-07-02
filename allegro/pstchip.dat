@@ -1,0 +1,99 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Jun-27-2018 at 17:41:41}
+primitive 'C_CAP17MM_10UF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='cap17mm';
+    VALUE='10uF';
+  end_body;
+end_primitive;
+primitive 'FUSE-FC211_FUSE_FC211_FUSE-FC21';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='fuse-fc211';
+    JEDEC_TYPE='fuse_fc211';
+    VALUE='fuse-fc211';
+  end_body;
+end_primitive;
+primitive 'CON3_ACIN_AC IN';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON3';
+    JEDEC_TYPE='acin';
+    VALUE='AC IN';
+  end_body;
+end_primitive;
+primitive 'POWERMODULE_PM12_POWERMODULE';
+  pin
+    'AC#1':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'AC#2':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'DC+':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'GND':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='PowerModule';
+    JEDEC_TYPE='PM12';
+    VALUE='PowerModule';
+  end_body;
+end_primitive;
+primitive 'AZ1117_AZ1117_AZ1117';
+  pin
+    'GND':
+      PIN_NUMBER='(1)';
+      PINUSE='POWER';
+    'IN':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'OUT#2':
+      PIN_NUMBER='(2)';
+      PINUSE='POWER';
+    'OUT#4':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+  end_pin;
+  body
+    PART_NAME='AZ1117';
+    JEDEC_TYPE='az1117';
+    VALUE='AZ1117';
+  end_body;
+end_primitive;
+END.

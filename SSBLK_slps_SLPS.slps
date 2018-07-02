@@ -1,0 +1,15 @@
+Selected opj path (OPJ): nixie.opj
+Maximum ITL4 value (ITL): 100
+Maximum RELTOL value (RMX): 0.01
+Use Simulink Minor Step (MNR): 0
+Minimum PSpice time step (TOL): 1e-09
+PSpice Data Saving Option (DSL): 1
+Convergence option (CVO): 1
+Time Out value (TOT): 1
+Simulate value (RTL): 1e-003
+Simulate value (ATL): 1e-012
+Simulate value (VTL): 1e-006
+Simulate value (GMN): 1e-012
+Simulate value (IT1): 150
+Simulate value (IT2): 20
+Simulate value (IT4): 10

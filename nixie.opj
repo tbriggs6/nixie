@@ -1,0 +1,277 @@
+(ExpressProject "nixie"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\SPB_17.2\tools\capture\library\pspice\analog.olb"
+        (DisplayName
+           "C:\Cadence\SPB_17.2\tools\capture\library\pspice\analog.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\library\pspice\breakout.olb"
+        (DisplayName
+           "C:\Cadence\SPB_17.2\tools\capture\library\pspice\breakout.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\library\pspice\source.olb"
+        (DisplayName
+           "C:\Cadence\SPB_17.2\tools\capture\library\pspice\source.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\library\pspice\sourcstm.olb"
+        (DisplayName
+           "C:\Cadence\SPB_17.2\tools\capture\library\pspice\sourcstm.olb")
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\library\pspice\special.olb"
+        (DisplayName
+           "C:\Cadence\SPB_17.2\tools\capture\library\pspice\special.olb")
+        (Type "Schematic Library"))
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "nixie.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "TRUE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (RootChangedForceReNetlist "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (File ".\control.v"
+      (Type "Verilog Source"))
+    (Board_sim_option "Verilog_Flow")
+    (Netlist_TAB "0")
+    (Create Allegro Netlist "TRUE")
+    (Allegro Netlist Directory "allegro")
+    (View Allegro Netlist Files "FALSE")
+    (Allegro Netlist Create DCF File "FALSE")
+    (Update Allegro Board "TRUE")
+    (Allegro Netlist Output Board File "allegro\NIXIE.brd")
+    (Allegro Netlist Remove Etch "FALSE")
+    (Allegro Netlist Place Changed Component "ALWAYS_REPLACE")
+    (Allegro Netlist Open Board in Allegro "ALLEGRO")
+    (Allegro Setup Backup Versions "3")
+    (Allegro Setup Ignore Constraints "FALSE")
+    (Allegro Setup Part Type Length "31")
+    (Allegro Netlist Combine Property String "PCB Footprint")
+    (Allegro Netlist Ignore Fixed Property "FALSE")
+    (Allegro Netlist User Defined Property "FALSE")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_IncludeNonPrimitive "TRUE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Allegro Netlist Input Board File "allegro\NIXIE.brd"))
+  (Folder "Outputs"
+    (File ".\nixie-pspicefiles\schematic1\schematic1.net"
+      (Type "Report"))
+    (File ".\nixie-pspicefiles\tranny\tranny.net"
+      (Type "Report"))
+    (File ".\nixie-pspicefiles\micro\micro.net"
+      (Type "Report"))
+    (File ".\vdc.v"
+      (Type "Report"))
+    (File ".\vdc.ucf"
+      (Type "Report"))
+    (File ".\adc10break.v"
+      (Type "Report"))
+    (File ".\adc10break.ucf"
+      (Type "Report"))
+    (File ".\nixie-pspicefiles\rail2\rail2.net"
+      (Type "Report"))
+    (File ".\nixie-pspicefiles\sim_tank\sim_tank.net"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\nixie-pspicefiles\sim1\sim1.net"
+      (Type "Report")))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (PARAM
+      (FullPartName "PARAM.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SPECIAL.OLB")
+      (DeviceIndex "0"))
+    (VPULSE
+      (FullPartName "VPULSE.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (UF4004
+      (FullPartName "UF4004.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ADVANLS\DI.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (IRF740
+      (FullPartName "IRF740.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ADVANLS\MFN.OLB")
+      (DeviceIndex "0"))
+    (AZ1117
+      (FullPartName "AZ1117.Normal")
+      (LibraryName "C:\ORCAD\LIBRARIES\SHIPCSE.OLB")
+      (DeviceIndex "0"))
+    (PowerModule
+      (FullPartName "PowerModule.Normal")
+      (LibraryName "C:\ORCAD_PROJECTS\NIXIETUBES\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Dbreak
+      (FullPartName "Dbreak.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (VSIN
+      (FullPartName "VSIN.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VAC
+      (FullPartName "VAC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND_EARTH
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock_SHIPCSE_Small
+      (LibraryName "C:\ORCAD\LIBRARIES\SHIPCSE.OLB")
+      (DeviceIndex "0"))
+    (power_Mbreakn
+      (FullPartName "power_Mbreakn.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (MbreakN3
+      (FullPartName "MbreakN3.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (fdsfasfsdf
+      (FullPartName "fdsfasfsdf.Normal")
+      (LibraryName "C:\ORCAD_PROJECTS\NIXIETUBES\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (AND2
+      (FullPartName "AND2.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\DIG_PRIM.OLB")
+      (DeviceIndex "0"))
+    (DigClock
+      (FullPartName "DigClock.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\DATACONV.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\orcad_projects\NixieTubes")
+  (MPSSessionName "tbriggs")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "c:\orcad_projects\nixietubes\nixie.dsn")
+      (Path "Design Resources" "c:\orcad_projects\nixietubes\nixie.dsn" "SIM1")
+      (Path "Design Resources" "c:\orcad_projects\nixietubes\nixie.dsn" "NIXIE")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Path "TestBenches")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Model Libraries")
+      (Path "PSpice Resources" "Simulation Profiles")
+      (Select "Design Resources" "c:\orcad_projects\nixietubes\nixie.dsn"
+         "SIM1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 520 0 493"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1200 130 559")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1796 602")
+        (Zoom "449"))
+      (Path "C:\ORCAD_PROJECTS\NIXIETUBES\LIBRARY1.OLB")
+      (Package "PowerModule"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1467 104 533")
+        (Scroll "-172 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\ORCAD_PROJECTS\NIXIETUBES\NIXIE.DSN")
+      (Schematic "SIM1")
+      (Page "PAGE1")))
+  (Folder "TestBenches"
+    (TestBenchsFolder "NIXIE-TBFiles")
+    (ActiveTestBench "ERROR_COMPENSATE/TestError")
+    (Folder "NEGATIVE_RAIL/TestNegativeRail")
+    (Folder "HIGH_RAIL/TestHV")
+    (Folder "VCO/TestVCO")
+    (Folder "ERROR_COMPENSATE/TestError"))
+  (Folder "PSpice Resources"
+    (Folder "Stimulus Files")
+    (Folder "Include Files")
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\nixie-pspicefiles\sim1\ddd.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\nixie-pspicefiles\sim1\ddd.sim"
+        (DisplayName "SIM1-ddd")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (File "C:\orcad\libraries\NTD20P06L.REV0.LIB"
+        (DisplayName "C:\orcad\libraries\NTD20P06L.REV0.LIB")
+        (Type "PSpiceLibrary"))
+      (Sort User)))
+  (ISPCBBASICLICENSE "false"))

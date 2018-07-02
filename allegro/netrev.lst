@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : NIXIE.brd                                     )
+(    Software Version : 17.2S032                                      )
+(    Date/Time        : Wed Jun 27 17:41:41 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\ORCAD_PROJECTS\NIXIETUBES\allegro'
+Design Directory:            'C:/ORCAD_PROJECTS/NIXIETUBES/allegro'
+Old design name:             'C:/ORCAD_PROJECTS/NIXIETUBES/allegro/NIXIE.brd'
+New design name:             'C:/ORCAD_PROJECTS/NIXIETUBES/allegro/NIXIE.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\ORCAD_PROJECTS\NIXIETUBES\allegro C:\ORCAD_PROJECTS\NIXIETUBES\allegro\NIXIE.brd C:\ORCAD_PROJECTS\NIXIETUBES\allegro\NIXIE.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/ORCAD_PROJECTS/NIXIETUBES/allegro/pstchip.dat 
+   Finished reading C:/ORCAD_PROJECTS/NIXIETUBES/allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/ORCAD_PROJECTS/NIXIETUBES/allegro/pstxprt.dat 
+   Finished reading C:/ORCAD_PROJECTS/NIXIETUBES/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/ORCAD_PROJECTS/NIXIETUBES/allegro/pstxnet.dat 
+   Finished reading C:/ORCAD_PROJECTS/NIXIETUBES/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.2/share/local/pcb/modules 
+
+PSMPATH =  C:/orcad/pcb_symbols/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/orcad/pcb_symbols/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 27 17:41:41 2018
+   DESIGN NAME : 'NIXIE'
+   PACKAGING ON Jan  2 2018 22:29:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:19
+elapsed time  0:00:00
+

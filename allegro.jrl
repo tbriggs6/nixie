@@ -1,0 +1,789 @@
+\t (00:00:28) allegro 17.2 S032 Windows SPB 64-bit Edition
+\t (00:00:28)     Journal start - Wed Jun 27 17:19:44 2018
+\t (00:00:28)         Host=TBRIGGS-PC User=tbriggs Pid=24528 CPUs=16
+\t (00:00:28) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:28) 
+\t (00:00:28) Starting new design...
+\i (00:00:28) trapsize 68215
+\i (00:00:28) trapsize 68215
+\i (00:00:28) generaledit 
+\i (00:00:33) place manual 
+\i (00:00:36) setwindow form.plc_manual
+\i (00:00:36) FORM plc_manual cancel  
+\i (00:00:36) setwindow pcb
+\i (00:00:36) generaledit 
+\i (00:00:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:36) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:39) place manual 
+\i (00:00:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:39) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:41) setwindow form.plc_manual
+\i (00:00:41) FORM plc_manual cancel  
+\i (00:00:41) setwindow pcb
+\i (00:00:41) generaledit 
+\i (00:00:46) new 
+\e (00:00:46) Do you want to save the changes you made to pm12.brd?
+\i (00:00:47) fillin no 
+\i (00:00:52) newdrawfillin "pm12.dra" "Package Symbol"
+\t (00:00:52) Starting new design...
+\i (00:00:52) trapsize 68215
+\i (00:00:52) trapsize 68215
+\i (00:00:52) trapsize 69088
+\i (00:00:52) generaledit 
+\i (00:00:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:55) add pin 
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:55) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:00:57) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:01) setwindow form.mini
+\i (00:01:01) FORM mini pad_browse  
+\i (00:01:48) fillin "Hole_1_8Mm"
+\t (00:01:48) Using 'HOLE_1_8MM.pad'.
+\i (00:01:52) setwindow pcb
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:01:56) pick 0 0 
+\t (00:01:56) last pick:  0.0000 0.0000
+\t (00:01:56) Using 'HOLE_1_8MM.pad'.
+\w (00:01:56) WARNING(SPMHA2-34): Pin(s) cannot be placed outside the drawing extents.
+\i (00:01:59) prepopup 114.6861 445.4956
+\i (00:01:59) cancel 
+\t (00:01:59) Exiting from Add Pin.
+\i (00:01:59) generaledit 
+\i (00:02:00) prmed 
+\i (00:02:02) setwindow form.prmedit
+\i (00:02:02) FORM prmedit design  
+\i (00:02:07) FORM prmedit move_x 10.0000 
+\i (00:02:09) FORM prmedit move_y 10.0000 
+\i (00:02:10) FORM prmedit done  
+\i (00:02:10) setwindow pcb
+\i (00:02:10) trapsize 69088
+\i (00:02:10) generaledit 
+\i (00:02:12) add pin 
+\i (00:02:18) setwindow form.mini
+\i (00:02:18) FORM mini pad_browse  
+\t (00:02:20) No valid name selected.
+\i (00:02:25) fillin "Hole_1_8Mm"
+\t (00:02:25) Using 'HOLE_1_8MM.pad'.
+\i (00:02:27) setwindow pcb
+\i (00:02:27) pick 0 0 
+\t (00:02:27) last pick:  0.0000 0.0000
+\t (00:02:27) Using 'HOLE_1_8MM.pad'.
+\i (00:02:36) pick 0 8 
+\t (00:02:36) last pick:  0.0000 8.0000
+\t (00:02:36) Using 'HOLE_1_8MM.pad'.
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:03) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:03:05) add pin 
+\t (00:03:05) Exiting from Add Pin.
+\t (00:03:05) Using 'HOLE_1_8MM.pad'.
+\i (00:03:11) pick 70 0 
+\t (00:03:11) last pick:  70.0000 0.0000
+\t (00:03:11) Using 'HOLE_1_8MM.pad'.
+\i (00:03:15) pick 70 8 
+\t (00:03:15) last pick:  70.0000 8.0000
+\t (00:03:15) Using 'HOLE_1_8MM.pad'.
+\i (00:03:25) package bound 
+\t (00:03:25) Exiting from Add Pin.
+\i (00:03:34) pick -5 -5 
+\t (00:03:34) last pick:  -5.0000 -5.0000
+\i (00:03:46) pick 75 -5 
+\t (00:03:46) last pick:  75.0000 -5.0000
+\i (00:03:50) pick 75 55 
+\t (00:03:50) last pick:  75.0000 55.0000
+\i (00:03:55) pick -5 55 
+\t (00:03:55) last pick:  -5.0000 55.0000
+\i (00:03:58) pick -5 -5 
+\t (00:03:58) last pick:  -5.0000 -5.0000
+\i (00:03:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:08) package_height 
+\i (00:04:09) pick grid 48.0339 36.1670
+\t (00:04:09) last pick:  48.2600 35.5600
+\i (00:04:19) setwindow form.mini
+\i (00:04:19) FORM mini height_min 42 
+\i (00:04:20) FORM mini height_max 42 
+\i (00:04:23) FORM mini height_min 0 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) pick grid 42.5069 8.5318
+\t (00:04:24) last pick:  43.1800 7.6200
+\i (00:04:24) prepopup 258.0614 141.1808
+\i (00:04:25) done 
+\i (00:04:25) generaledit 
+\i (00:04:26) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:28) pick grid 147.5206 123.2179
+\t (00:04:28) last pick:  147.3200 124.4600
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 49.4157 -16.3399
+\i (00:04:29) trapsize 34544
+\i (00:04:29) zoom in 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom in 48.7249 73.5965
+\i (00:04:29) trapsize 17272
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out 48.3794 69.7967
+\i (00:04:29) trapsize 34544
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out 48.3795 68.4149
+\i (00:04:29) trapsize 69088
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out 43.8886 -53.6474
+\i (00:04:29) trapsize 69088
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:38) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:04:39) zoom out 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out -4.4730 -8.0493
+\i (00:04:39) trapsize 69088
+\i (00:04:40) zoom fit 
+\i (00:04:40) trapsize 6482
+\i (00:04:41) zoom out 1 
+\i (00:04:41) setwindow pcb
+\i (00:04:41) zoom out 48.1583 8.7304
+\i (00:04:41) trapsize 12964
+\i (00:04:42) zoom in 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom in 68.0423 8.1494
+\i (00:04:42) trapsize 6482
+\i (00:04:43) drag_start grid 69.9869 7.8901
+\i (00:04:44) drag_stop 69.0795 42.7628
+\i (00:04:44) prepopup 69.9869 8.2790
+\i (00:04:47) pop dyn_option_select @:@Move 
+\i (00:04:47) move 
+\t (00:04:47) last pick:  71.1200 7.6200
+\t (00:04:47) last pick:  70.0000 8.0000
+\t (00:04:47) Pick new location for the element(s).
+\i (00:04:50) pick grid 69.8573 50.8004
+\t (00:04:50) last pick:  71.1200 50.8000
+\i (00:04:50) generaledit 
+\i (00:04:50) prepopup 69.7277 -0.2771
+\i (00:04:51) pop dyn_option_select @:@Move 
+\i (00:04:51) move 
+\t (00:04:51) last pick:  68.5800 0.0000
+\t (00:04:51) last pick:  70.0000 0.0000
+\t (00:04:51) Pick new location for the element(s).
+\i (00:04:54) pick grid 71.0240 44.5778
+\t (00:04:54) last pick:  71.1200 45.7200
+\i (00:04:54) generaledit 
+\i (00:04:54) pick grid 81.0062 43.9296
+\t (00:04:54) last pick:  81.2800 43.1800
+\i (00:04:55) zoom out 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom out 81.6544 42.6332
+\i (00:04:55) trapsize 12964
+\i (00:04:55) zoom out 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom out 100.7112 74.5242
+\i (00:04:55) trapsize 25928
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 19.0390 -6.8887
+\i (00:04:56) trapsize 12964
+\i (00:04:56) zoom in 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom in 18.7797 -4.5551
+\i (00:04:56) trapsize 6482
+\i (00:04:57) roam x -96 
+\i (00:04:57) roam x -96
+\i (00:04:57) roam x -96 
+\i (00:04:57) roam x -64
+\i (00:04:58) roam x -96 
+\i (00:04:59) prepopup 0.1118 8.2791
+\i (00:05:00) pop dyn_option_select @:@Move 
+\i (00:05:00) move 
+\t (00:05:01) last pick:  0.0000 7.6200
+\t (00:05:01) last pick:  0.0000 8.0000
+\t (00:05:01) Pick new location for the element(s).
+\i (00:05:03) pick grid -1.1846 44.8371
+\t (00:05:03) last pick:  0.0000 45.7200
+\i (00:05:03) generaledit 
+\i (00:06:09) replace padstack 
+\i (00:06:11) setwindow form.mini
+\i (00:06:11) FORM mini oldname_browse  
+\i (00:06:13) fillin "Hole_1_8Mm"
+\i (00:06:14) FORM mini newname_browse  
+\t (00:06:16) No valid name selected.
+\i (00:06:18) fillin "Pm12"
+\i (00:06:19) FORM mini replace  
+\t (00:06:19) Done, updated padstack.
+\t (00:06:19) 4 out of 4 old padstack HOLE_1_8MM were replaced with new padstack PM12.
+\i (00:06:20) setwindow pcb
+\i (00:06:20) prepopup 26.0394 24.4839
+\i (00:06:21) done 
+\t (00:06:21) Performing DRC...
+\t (00:06:21) No DRC errors detected.
+\i (00:06:21) generaledit 
+\i (00:06:23) pick grid 56.5045 28.2434
+\t (00:06:23) last pick:  55.8800 27.9400
+\i (00:06:24) pick grid 69.8572 44.8371
+\t (00:06:24) last pick:  71.1200 45.7200
+\i (00:06:25) prepopup 69.8572 44.8371
+\i (00:06:25) pop dyn_option_select @:@Move 
+\i (00:06:25) move 
+\t (00:06:26) last pick:  71.1200 45.7200
+\t (00:06:26) last pick:  71.1200 45.7200
+\t (00:06:26) Pick new location for the element(s).
+\i (00:06:27) pick grid 70.6351 39.2627
+\t (00:06:27) last pick:  71.1200 38.1000
+\i (00:06:27) generaledit 
+\i (00:06:27) pick grid 55.8563 29.7991
+\t (00:06:27) last pick:  55.8800 30.4800
+\i (00:06:29) save 
+\e (00:06:29) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:06:29) generaledit 
+\i (00:06:31) setwindow text
+\i (00:06:31) close
+\i (00:06:32) zoom in 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom in 15.6684 47.9484
+\i (00:06:32) trapsize 3241
+\i (00:06:32) zoom out 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom out 7.1123 54.3656
+\i (00:06:32) trapsize 6482
+\i (00:06:33) zoom out 1 
+\i (00:06:33) setwindow pcb
+\i (00:06:33) zoom out 9.3161 51.1893
+\i (00:06:33) trapsize 12964
+\i (00:06:35) label refdes 
+\t (00:06:35) Pick text location.
+\i (00:06:38) pick grid -2.7402 60.5233
+\t (00:06:38) last pick:  -2.5400 60.9600
+\t (00:06:38) Enter text string.
+\i (00:06:40) setwindow pcb
+\i (00:06:40) prepopup 0.8896 60.2640
+\i (00:06:41) done 
+\i (00:06:41) setwindow pcb
+\i (00:06:41) pick -2.5400 60.9600
+\i (00:06:41) setwindow pcb
+\i (00:06:41) generaledit 
+\i (00:06:42) save 
+\i (00:06:43) fillin yes 
+\t (00:06:43) Symbol 'pm12.psm' created.
+\i (00:06:43) generaledit 
+\i (00:06:55) xname_flush 
+\e (00:06:55) Command not found: xdehilite
+\i (00:06:55) xname_flush 
+\i (00:06:55) done 
+\i (00:06:56) generaledit 
+\i (00:07:01) xname_flush 
+\e (00:07:02) Command not found: xdehilite
+\i (00:07:02) xname_flush 
+\i (00:07:02) done 
+\i (00:07:02) generaledit 
+\i (00:07:04) xname_flush 
+\e (00:07:06) Command not found: xdehilite
+\i (00:07:06) xname_flush 
+\i (00:07:06) done 
+\i (00:07:06) generaledit 
+\i (00:07:07) xname_flush 
+\e (00:07:07) Command not found: xdehilite
+\i (00:07:07) xname_flush 
+\i (00:07:07) done 
+\i (00:07:07) generaledit 
+\i (00:07:15) xname_flush 
+\e (00:07:15) Command not found: xdehilite
+\i (00:07:15) xname_flush 
+\i (00:07:15) done 
+\i (00:07:16) generaledit 
+\i (00:07:20) xname_flush 
+\e (00:07:21) Command not found: xdehilite
+\i (00:07:21) xname_flush 
+\i (00:07:21) done 
+\i (00:07:21) generaledit 
+\i (00:07:53) xname_flush 
+\e (00:08:28) Command not found: xdehilite
+\i (00:08:28) xname_flush 
+\i (00:08:28) done 
+\i (00:08:28) generaledit 
+\i (00:08:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:08:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:08:50) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:08:51) new 
+\i (00:08:57) newdrawfillin "acin.dra" "Package Symbol"
+\t (00:08:57) Starting new design...
+\i (00:08:57) trapsize 69088
+\i (00:08:58) trapsize 69088
+\i (00:08:58) generaledit 
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:00) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:01) add pin 
+\i (00:09:03) setwindow form.mini
+\i (00:09:03) FORM mini pad_browse  
+\t (00:09:05) No valid name selected.
+\i (00:09:06) fillin "Pm12"
+\t (00:09:06) Using 'PM12.pad'.
+\i (00:09:15) setwindow pcb
+\i (00:09:15) pick 5 5 
+\t (00:09:15) last pick:  5.0000 5.0000
+\t (00:09:15) Using 'PM12.pad'.
+\i (00:09:18) pick 5 15 
+\t (00:09:18) last pick:  5.0000 15.0000
+\t (00:09:18) Using 'PM12.pad'.
+\i (00:09:20) zoom fit 
+\i (00:09:20) trapsize 1338
+\i (00:09:20) zoom out 1 
+\i (00:09:20) setwindow pcb
+\i (00:09:20) zoom out 3.9162 9.1035
+\i (00:09:20) trapsize 2676
+\i (00:09:25) pick 5 25 
+\t (00:09:25) last pick:  5.0000 25.0000
+\t (00:09:25) Using 'PM12.pad'.
+\i (00:09:27) prepopup 12.2666 4.9819
+\i (00:09:27) done 
+\t (00:09:27) Exiting from Add Pin.
+\i (00:09:28) generaledit 
+\i (00:09:28) zoom in 1 
+\i (00:09:28) setwindow pcb
+\i (00:09:28) zoom in 9.3227 10.9233
+\i (00:09:28) trapsize 1338
+\i (00:09:28) zoom out 1 
+\i (00:09:28) setwindow pcb
+\i (00:09:28) zoom out 9.0016 10.8162
+\i (00:09:28) trapsize 2676
+\i (00:09:29) zoom out 1 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom out 9.0016 10.8163
+\i (00:09:29) trapsize 5353
+\i (00:09:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:29) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:33) package bound 
+\i (00:09:34) pick grid -2.2923 30.4652
+\t (00:09:34) last pick:  -2.5400 30.4800
+\i (00:09:35) pick grid -1.3289 -1.6500
+\t (00:09:35) last pick:  -2.5400 -2.5400
+\i (00:09:36) pick grid 8.9480 -1.7571
+\t (00:09:36) last pick:  10.1600 -2.5400
+\i (00:09:37) pick grid 10.4467 31.8569
+\t (00:09:37) last pick:  10.1600 33.0200
+\i (00:09:37) prepopup 9.6974 32.0710
+\i (00:09:38) done 
+\i (00:09:38) generaledit 
+\i (00:09:41) label refdes 
+\t (00:09:41) Pick text location.
+\i (00:09:41) pick grid 14.9429 4.1307
+\t (00:09:41) last pick:  15.2400 5.0800
+\t (00:09:41) Enter text string.
+\i (00:09:44) setwindow pcb
+\i (00:09:44) prepopup 14.1935 12.4807
+\i (00:09:44) done 
+\i (00:09:44) setwindow pcb
+\i (00:09:44) pick 15.2400 5.0800
+\i (00:09:44) setwindow pcb
+\i (00:09:44) generaledit 
+\i (00:09:45) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:09:45) save 
+\t (00:09:45) Symbol 'acin.psm' created.
+\i (00:09:45) generaledit 
+\i (00:09:50) xname_flush 
+\e (00:10:12) Command not found: xdehilite
+\i (00:10:12) xname_flush 
+\i (00:10:12) done 
+\i (00:10:12) generaledit 
+\i (00:12:08) xname_flush 
+\e (00:14:24) Command not found: xhilite
+\i (00:14:24) xname_flush 
+\i (00:14:24) done 
+\i (00:14:24) generaledit 
+\i (00:14:37) xname_flush 
+\e (00:14:38) Command not found: xdehilite
+\i (00:14:38) xname_flush 
+\i (00:14:38) done 
+\i (00:14:38) generaledit 
+\i (00:14:41) xname_flush 
+\i (00:15:01) xname_flush 
+\e (00:15:02) Command not found: xdehilite
+\i (00:15:02) xname_flush 
+\i (00:15:02) done 
+\i (00:15:02) generaledit 
+\i (00:15:05) xname_flush 
+\e (00:15:06) Command not found: xdehilite
+\i (00:15:06) xname_flush 
+\i (00:15:06) done 
+\i (00:15:06) generaledit 
+\i (00:15:10) xname_flush 
+\e (00:15:10) Command not found: xdehilite
+\i (00:15:10) xname_flush 
+\i (00:15:10) done 
+\i (00:15:10) generaledit 
+\i (00:15:23) xname_flush 
+\i (00:15:35) open 
+\i (00:16:04) fillin "menu_cancel"
+\i (00:16:04) generaledit 
+\i (00:16:06) new 
+\i (00:16:11) newdrawfillin "cap17mm.dra" "Package Symbol"
+\t (00:16:11) Starting new design...
+\i (00:16:11) trapsize 69088
+\i (00:16:11) trapsize 69088
+\i (00:16:11) generaledit 
+\i (00:16:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:17) prmed 
+\i (00:16:19) setwindow form.prmedit
+\i (00:16:19) FORM prmedit cancel  
+\i (00:16:19) setwindow pcb
+\i (00:16:19) generaledit 
+\i (00:16:27) shape add circle 
+\i (00:16:31) setwindow form.mini
+\i (00:16:31) FORM mini class PACKAGE GEOMETRY 
+\i (00:16:40) FORM mini cir_specify YES 
+\i (00:16:47) FORM mini cir_radius 18.0000 
+\i (00:16:52) FORM mini cir_x_coord 18.0000 
+\i (00:16:52) FORM mini cir_y_coord 18.0000 
+\i (00:16:54) FORM mini cir_create  
+\i (00:16:55) setwindow pcb
+\i (00:16:55) prepopup 147.5206 -20.4852
+\i (00:16:55) done 
+\i (00:16:55) generaledit 
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:16:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:17:03) add pin 
+\i (00:17:05) setwindow form.mini
+\i (00:17:05) FORM mini pad_browse  
+\i (00:17:18) fillin "Hole-1mm"
+\t (00:17:18) Using 'HOLE-1MM.pad'.
+\i (00:17:37) setwindow pcb
+\i (00:17:37) zoom out 1 
+\i (00:17:37) setwindow pcb
+\i (00:17:37) zoom out 19.0170 18.2041
+\i (00:17:37) trapsize 69088
+\i (00:17:37) zoom out 1 
+\i (00:17:37) setwindow pcb
+\i (00:17:37) zoom out 13.4899 12.6771
+\i (00:17:37) trapsize 69088
+\i (00:17:37) zoom out 1 
+\i (00:17:37) setwindow pcb
+\i (00:17:37) zoom out 14.8717 26.4947
+\i (00:17:37) trapsize 69088
+\i (00:17:37) zoom out 1 
+\i (00:17:37) setwindow pcb
+\i (00:17:37) zoom out 16.2534 19.5859
+\i (00:17:37) trapsize 69088
+\i (00:17:37) zoom out 1 
+\i (00:17:37) setwindow pcb
+\i (00:17:37) zoom out 16.2534 11.2953
+\i (00:17:37) trapsize 69088
+\i (00:17:40) zoom in 1 
+\i (00:17:40) setwindow pcb
+\i (00:17:40) zoom in 28.6893 -6.6676
+\i (00:17:40) trapsize 34544
+\i (00:17:40) zoom in 1 
+\i (00:17:40) setwindow pcb
+\i (00:17:40) zoom in 24.5441 90.1776
+\i (00:17:40) trapsize 17272
+\i (00:17:42) zoom fit 
+\i (00:17:42) trapsize 3441
+\i (00:17:44) pick grid 16.5205 10.3956
+\t (00:17:44) last pick:  17.7800 10.1600
+\t (00:17:44) Using 'HOLE-1MM.pad'.
+\i (00:17:45) pick grid 18.7915 24.1592
+\t (00:17:45) last pick:  17.7800 25.4000
+\t (00:17:45) Using 'HOLE-1MM.pad'.
+\i (00:17:45) Esc 
+\w (00:17:45) WARNING(SPMHA1-314): Illegal event.
+\i (00:17:47) Esc 
+\w (00:17:47) WARNING(SPMHA1-314): Illegal event.
+\i (00:17:50) Esc 
+\w (00:17:50) WARNING(SPMHA1-314): Illegal event.
+\i (00:17:51) prepopup 10.6709 21.0624
+\i (00:17:52) done 
+\t (00:17:52) Exiting from Add Pin.
+\i (00:17:52) generaledit 
+\i (00:17:53) dimension edit 
+\i (00:17:55) pick grid 17.5527 25.5356
+\t (00:17:55) last pick:  17.7800 25.4000
+\w (00:17:55) WARNING(SPMHDI-55): No dimension found.
+\i (00:17:57) dimension edit 
+\i (00:17:59) prepopup 13.5613 15.0064
+\i (00:18:00) pop dyn_option_select '@:@Linear dimension' 
+\t (00:18:00) Pick an element or point to dimension ...
+\i (00:18:02) pick grid 17.8968 25.2603
+\t (00:18:02) last pick:  17.7800 25.4000
+\t (00:18:02) First point found ... pick the second point.
+\i (00:18:03) pick grid 17.5527 10.8085
+\t (00:18:03) last pick:  17.7800 10.1600
+\t (00:18:03) Pick location for the dimension value.
+\i (00:18:06) pick grid 8.8817 18.0344
+\t (00:18:06) last pick:  7.6200 17.7800
+\t (00:18:06) Pick an element or point to dimension ...
+\i (00:18:07) Esc 
+\i (00:18:19) prepopup 17.6216 9.9139
+\i (00:18:25) done 
+\i (00:18:25) generaledit 
+\i (00:18:27) prepopup 17.0710 9.4321
+\i (00:18:30) pop dyn_option_select 'Drafting@:@Offset Move' 
+\i (00:18:30) offset move 
+\t (00:18:30) last pick:  17.7800 10.1600
+\t (00:18:30) last pick:  17.7800 10.1600
+\i (00:18:34) setwindow form.mini
+\i (00:18:34) FORM mini move_offset_x 0.0000 
+\i (00:18:39) FORM mini move_offset_y 3.5000 
+\i (00:18:39) FORM mini move_offset_apply  
+\i (00:18:41) setwindow pcb
+\i (00:18:41) zoom in 1 
+\i (00:18:41) setwindow pcb
+\i (00:18:41) zoom in 17.8280 25.7420
+\i (00:18:41) trapsize 1720
+\i (00:18:41) zoom out 1 
+\i (00:18:41) setwindow pcb
+\i (00:18:41) zoom out 17.8280 25.7420
+\i (00:18:41) trapsize 3441
+\i (00:18:41) zoom out 1 
+\i (00:18:41) setwindow pcb
+\i (00:18:41) zoom out 17.8280 25.5356
+\i (00:18:41) trapsize 6882
+\i (00:18:41) zoom out 1 
+\i (00:18:41) setwindow pcb
+\i (00:18:41) zoom out 32.6672 41.0630
+\i (00:18:41) trapsize 13764
+\i (00:18:42) zoom in 1 
+\i (00:18:42) setwindow pcb
+\i (00:18:42) zoom in 14.7745 24.9596
+\i (00:18:42) trapsize 6882
+\i (00:18:42) zoom in 1 
+\i (00:18:42) setwindow pcb
+\i (00:18:42) zoom in 14.6369 24.6843
+\i (00:18:42) trapsize 3441
+\i (00:18:44) roam x -96 
+\i (00:18:44) roam x -96
+\i (00:18:44) roam y 96 
+\i (00:18:44) roam y 96
+\i (00:18:44) roam y 96 
+\i (00:18:44) roam y 96
+\i (00:18:47) prepopup 19.6606 22.6198
+\i (00:18:48) done 
+\i (00:18:48) generaledit 
+\i (00:18:48) prepopup 17.7337 25.3037
+\i (00:18:50) pop dyn_option_select 'Drafting@:@Offset Move' 
+\i (00:18:50) offset move 
+\t (00:18:50) last pick:  17.7800 25.4000
+\t (00:18:50) last pick:  17.7800 25.4000
+\i (00:18:53) setwindow form.mini
+\i (00:18:53) FORM mini move_offset_y -4.5000 
+\i (00:18:54) FORM mini move_offset_apply  
+\i (00:18:55) setwindow pcb
+\i (00:18:55) prepopup 25.7854 20.8305
+\i (00:18:56) done 
+\i (00:18:56) generaledit 
+\i (00:19:04) prepopup 18.0777 20.7617
+\i (00:19:06) pop dyn_option_select 'Drafting@:@Offset Move' 
+\i (00:19:06) offset move 
+\t (00:19:06) last pick:  17.7800 20.3200
+\t (00:19:06) last pick:  17.7800 20.9000
+\i (00:19:11) setwindow form.mini
+\i (00:19:11) FORM mini move_offset_y 0.2500 
+\i (00:19:11) FORM mini move_offset_apply  
+\i (00:19:13) setwindow pcb
+\i (00:19:13) prepopup 20.6240 13.7423
+\i (00:19:14) done 
+\i (00:19:14) generaledit 
+\i (00:19:14) prepopup 17.6648 13.2605
+\i (00:19:15) pop dyn_option_select @:@Move 
+\i (00:19:15) move 
+\t (00:19:15) last pick:  17.7800 12.7000
+\t (00:19:15) last pick:  17.7800 13.6600
+\t (00:19:15) Pick new location for the element(s).
+\i (00:19:17) prepopup 18.1466 18.7660
+\i (00:19:18) cancel 
+\i (00:19:18) generaledit 
+\i (00:19:18) prepopup 17.4584 13.1229
+\i (00:19:20) pop dyn_option_select 'Drafting@:@Offset Move' 
+\i (00:19:20) offset move 
+\t (00:19:20) last pick:  17.7800 12.7000
+\t (00:19:20) last pick:  17.7800 13.6600
+\i (00:19:24) setwindow form.mini
+\i (00:19:24) FORM mini move_offset_y -0.2500 
+\i (00:19:26) FORM mini move_offset_apply  
+\i (00:19:26) setwindow pcb
+\i (00:19:26) prepopup 27.3682 24.9596
+\i (00:19:27) done 
+\i (00:19:27) generaledit 
+\i (00:19:37) prepopup 25.3725 24.7531
+\i (00:19:41) padeditdb 
+\i (00:19:42) setwindow form.mini
+\i (00:19:42) FORM mini padlist HOLE-1MM 
+\i (00:19:43) FORM mini pad_stack_edit  
+\i (00:19:55) setwindow pcb
+\i (00:19:55) prmed 
+\i (00:19:56) setwindow form.prmedit
+\i (00:19:56) FORM prmedit display  
+\i (00:19:57) FORM prmedit display_plated_holes YES 
+\i (00:19:57) FORM prmedit display_backdrill_holes YES 
+\i (00:19:58) FORM prmedit display_non_plated_holes YES 
+\i (00:19:59) FORM prmedit apply  
+\i (00:20:00) FORM prmedit done  
+\i (00:20:00) setwindow pcb
+\i (00:20:00) generaledit 
+\i (00:20:01) pick grid 24.2026 13.4670
+\t (00:20:01) last pick:  25.4000 12.7000
+\i (00:20:04) save 
+\e (00:20:04) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:20:04) generaledit 
+\i (00:20:10) setwindow text
+\i (00:20:10) close
+\i (00:20:18) package_height 
+\i (00:20:19) pick grid 33.4930 26.2671
+\t (00:20:19) last pick:  33.0200 25.4000
+\i (00:20:19) pick grid 33.6995 26.2671
+\t (00:20:19) last pick:  33.0200 25.4000
+\i (00:20:19) pick grid 34.1124 26.2671
+\t (00:20:19) last pick:  33.0200 25.4000
+\i (00:20:22) pick grid 22.5509 35.4200
+\t (00:20:22) last pick:  22.8600 35.5600
+\i (00:20:22) pick grid dbl 22.5509 35.4200
+\t (00:20:22) last pick:  22.8600 35.5600
+\i (00:20:22) Esc 
+\i (00:20:27) package bound 
+\i (00:20:30) zoom in 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom in 19.5917 15.6692
+\i (00:20:30) trapsize 1720
+\i (00:20:30) zoom out 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom out 16.7702 14.6713
+\i (00:20:30) trapsize 3441
+\i (00:20:30) zoom out 1 
+\i (00:20:30) setwindow pcb
+\i (00:20:30) zoom out 16.6325 14.5337
+\i (00:20:30) trapsize 6882
+\i (00:20:32) pick grid -0.5720 -0.3310
+\t (00:20:32) last pick:  0.0000 0.0000
+\i (00:20:35) prepopup 32.7360 2.5594
+\i (00:20:36) oops 
+\i (00:20:37) pick grid 23.2391 -0.3310
+\t (00:20:37) last pick:  22.8600 0.0000
+\i (00:20:38) pick grid 31.7725 3.9357
+\t (00:20:38) last pick:  33.0200 5.0800
+\i (00:20:39) pick grid 38.1038 13.9832
+\t (00:20:39) last pick:  38.1000 15.2400
+\i (00:20:39) pick grid 35.2134 26.7833
+\t (00:20:39) last pick:  35.5600 27.9400
+\i (00:20:41) pick grid 18.9724 37.3813
+\t (00:20:41) last pick:  17.7800 38.1000
+\i (00:20:43) pick grid 2.5937 31.7382
+\t (00:20:43) last pick:  2.5400 30.4800
+\i (00:20:46) pick grid -2.0860 19.0757
+\t (00:20:46) last pick:  -2.5400 20.3200
+\i (00:20:47) pick grid 1.4926 6.2755
+\t (00:20:47) last pick:  2.5400 5.0800
+\i (00:20:49) pick grid 17.8713 -1.2945
+\t (00:20:49) last pick:  17.7800 -2.5400
+\i (00:20:50) prepopup 24.7531 -1.4321
+\i (00:20:52) cancel 
+\i (00:20:52) generaledit 
+\i (00:20:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged
+\i (00:20:55) package bound 
+\i (00:20:56) pick grid 22.4133 -2.1203
+\t (00:20:56) last pick:  22.8600 -2.5400
+\i (00:20:57) pick grid 36.0393 6.4132
+\t (00:20:57) last pick:  35.5600 7.6200
+\i (00:20:58) pick grid 36.8651 25.8199
+\t (00:20:58) last pick:  38.1000 25.4000
+\i (00:20:59) pick grid 25.5789 36.8308
+\t (00:20:59) last pick:  25.4000 38.1000
+\i (00:21:00) pick grid 8.7873 37.6566
+\t (00:21:00) last pick:  7.6200 38.1000
+\i (00:21:02) pick grid -1.3978 23.2048
+\t (00:21:02) last pick:  -2.5400 22.8600
+\i (00:21:05) pick grid 3.0066 3.7981
+\t (00:21:05) last pick:  2.5400 2.5400
+\i (00:21:05) prepopup 2.8689 3.6604
+\i (00:21:06) done 
+\i (00:21:06) generaledit 
+\i (00:21:08) save 
+\i (00:21:09) fillin no 
+\i (00:21:11) fillin "menu_cancel"
+\i (00:21:11) generaledit 
+\i (00:21:14) label refdes 
+\t (00:21:14) Pick text location.
+\i (00:21:15) pick grid -0.4343 2.2841
+\t (00:21:15) last pick:  0.0000 2.5400
+\t (00:21:15) Enter text string.
+\i (00:21:18) setwindow pcb
+\i (00:21:18) prepopup 35.2134 -1.9826
+\i (00:21:19) done 
+\i (00:21:19) setwindow pcb
+\i (00:21:19) pick 0.0000 2.5400
+\i (00:21:19) setwindow pcb
+\i (00:21:19) generaledit 
+\i (00:21:19) save 
+\i (00:21:20) fillin yes 
+\t (00:21:20) Symbol 'cap17mm.psm' created.
+\i (00:21:20) generaledit 
+\e (00:21:23) Command not found: xdehilite
+\i (00:21:23) xname_flush 
+\i (00:21:23) done 
+\i (00:21:24) generaledit 
+\i (00:21:25) xname_flush 
+\i (00:21:34) exit 
+\t (00:21:34)     Journal end - Wed Jun 27 17:40:50 2018

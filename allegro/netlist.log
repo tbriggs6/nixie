@@ -1,0 +1,17 @@
+{ Using PSTWRITER 17.2.0 d001Jun-27-2018 at 17:41:41 }
+
+#1 WARNING(ORCAP-36006): Part Name "FUSE-FC211_FUSE_FC211_FUSE-FC211" is renamed to "FUSE-FC211_FUSE_FC211_FUSE-FC21".
+#2 WARNING(ORCAP-36042): Pin "AC" is renamed to "AC#1" as visible power pin of same name already exists in Package PowerModule , U1: NIXIE, PAGE1 (3.80, 2.60).
+#3 WARNING(ORCAP-36042): Pin "AC" is renamed to "AC#2" as visible power pin of same name already exists in Package PowerModule , U1: NIXIE, PAGE1 (3.80, 2.60).
+#4 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#2" as visible power pin of same name already exists in Package AZ1117 , U2: NIXIE, PAGE1 (3.10, 4.10).
+#5 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#4" as visible power pin of same name already exists in Package AZ1117 , U2: NIXIE, PAGE1 (3.10, 4.10).
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\ORCAD_PROJECTS\NIXIETUBES\allegro/pstchip.dat
+
+Loading... C:\ORCAD_PROJECTS\NIXIETUBES\allegro/pstchip.dat
+
+Loading... C:\ORCAD_PROJECTS\NIXIETUBES\allegro/pstxprt.dat
+
+Loading... C:\ORCAD_PROJECTS\NIXIETUBES\allegro/pstxnet.dat
+packaging the design view...

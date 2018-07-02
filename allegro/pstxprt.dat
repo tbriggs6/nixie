@@ -1,0 +1,60 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-27-2018 at 17:41:41 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='NIXIE';
+ POST_TIME='Jan  2 2018 22:29:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAP17MM_10UF':;
+
+SECTION_NUMBER 1
+ '@NIXIE.NIXIE(SCH_1):INS25017@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@nixie.nixie(sch_1):ins25017@analog.\c.normal\(chips)',
+ P_PATH='@nixie.nixie(sch_1):page1_ins25017@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ F1 'FUSE-FC211_FUSE_FC211_FUSE-FC21':;
+
+SECTION_NUMBER 1
+ '@NIXIE.NIXIE(SCH_1):INS24956@BRIGGS.FUSE-FC211.NORMAL(CHIPS)':
+ C_PATH='@nixie.nixie(sch_1):ins24956@briggs.\fuse-fc211.normal\(chips)',
+ P_PATH='@nixie.nixie(sch_1):page1_ins24956@briggs.\fuse-fc211.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON3_ACIN_AC IN':;
+
+SECTION_NUMBER 1
+ '@NIXIE.NIXIE(SCH_1):INS54@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@nixie.nixie(sch_1):ins54@connector.\con3.normal\(chips)',
+ P_PATH='@nixie.nixie(sch_1):page1_ins54@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'POWERMODULE_PM12_POWERMODULE':;
+
+SECTION_NUMBER 1
+ '@NIXIE.NIXIE(SCH_1):INS25733@LIBRARY1.POWERMODULE.NORMAL(CHIPS)':
+ C_PATH='@nixie.nixie(sch_1):ins25733@library1.\powermodule.normal\(chips)',
+ P_PATH='@nixie.nixie(sch_1):page1_ins25733@library1.\powermodule.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'AZ1117_AZ1117_AZ1117':;
+
+SECTION_NUMBER 1
+ '@NIXIE.NIXIE(SCH_1):INS26088@SHIPCSE.AZ1117.NORMAL(CHIPS)':
+ C_PATH='@nixie.nixie(sch_1):ins26088@shipcse.\az1117.normal\(chips)',
+ P_PATH='@nixie.nixie(sch_1):page1_ins26088@shipcse.\az1117.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

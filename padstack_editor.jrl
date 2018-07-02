@@ -1,0 +1,8 @@
+\t (00:00:00) padstack_editor 17.2 S032 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Jun 27 17:39:00 2018
+\t (00:00:00)         Host=TBRIGGS-PC User=tbriggs Pid=14820 CPUs=16
+\t (00:00:00) CmdLine= padstack_editor -mpssession tbriggs -file ./#Taaaaam24528.tmp -pname HOLE-1MM -data C:/Users/tbriggs/AppData/Local/Temp/#Taaaaao24528.tmp
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\t (00:00:05)     Journal end - Wed Jun 27 17:39:05 2018
